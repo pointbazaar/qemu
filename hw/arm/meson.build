@@ -53,6 +53,7 @@ arm_ss.add(when: 'CONFIG_ASPEED_SOC', if_true: files(
   'aspeed_ast2500_sonorapass.c',
   'aspeed_ast2500_supermicro-x11spi.c',
   'aspeed_ast2500_tiogapass.c',
+  'aspeed_ast2500_tyan_s5549.c',
   'aspeed_ast2500_witherspoon.c',
   'aspeed_ast2500_yosemitev2.c',
   'aspeed_ast2600.c',
